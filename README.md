@@ -1,5 +1,12 @@
 ![Banner](/Imgs/logo.png "Banner")
 
+
+## Author
+
+- Selva Viswanath
+  - GitHub: [selvaviswanath](https://github.com/selvaviswanath)
+  - Email: selvaviswanath@protonmail.com
+
 Team ID:  PNT2022TMID26273
 # **Web phishing detection**
 ### Team members
